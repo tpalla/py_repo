@@ -7,3 +7,4 @@ for i in range(0, 5):
 print("2) This is a file edited by emp1 branch")
 b = 5
 print(a+b)
+print("4) This line is added in emp1 to create a conflict between emp1 and emp2")
